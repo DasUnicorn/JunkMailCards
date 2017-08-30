@@ -8,7 +8,7 @@ One tarot set has 78 cards.
 
 That's a lot and people are most of the time surprised, 
 so I decided to go public and realize a real tarot game, 
-to show people the amount of sexual harassment in a quiet amusing way.
+to show people the amount of sexual harassment in an amusing way.
 
 ----------------------
 

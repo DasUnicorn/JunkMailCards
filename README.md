@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This repository has been moved to [Codeberg: https://codeberg.org/wlana/JunkMailCards](https://codeberg.org/wlana/JunkMailCards). Please visit the new location for the latest updates.
+
+
 # tarotcards
 
 „When life gives you dickPics...“ 
